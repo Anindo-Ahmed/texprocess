@@ -1,11 +1,12 @@
-import Image from "next/image";
 import React from "react";
-import Banner from "@/components/Homepage/Banner";
+import Homepage from "@/components/Homepage/Homepage";
+
 export default function Home() {
   return (
     <div>
-      <main className="h-screen bg-white">
-        <Banner/>
+      <main className="h-screen bg-base-200">
+        <Homepage/>
+        
       </main>
     </div>
   );
