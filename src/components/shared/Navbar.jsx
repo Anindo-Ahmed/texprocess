@@ -19,7 +19,7 @@ const Navbar = () => {
   ];
   return (
     <div className=" bg-slate-100">
-      <div className="navbar container mx-auto text-neutral-900">
+      <div className="navbar container mx-auto text-neutral-400">
         <div className="navbar-start">
           <div className="dropdown">
             <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -61,7 +61,7 @@ const Navbar = () => {
           <div className="flex flex-row items-center gap-6">
             {navItems.map((item) => (
               <Link
-                className="font-semibold hover:text-red-500 duration-200"
+                className="font-semibold hover:text-neutral-700 duration-200 hover:border-b-gray-900"
                 href={item.path}
                 key={item.path}
               >
