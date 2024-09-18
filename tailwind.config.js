@@ -13,5 +13,25 @@ module.exports = {
       },
     },
   },
-  plugins: [],
+  plugins: [
+    require('daisyui'),
+  ],
+  daisyui: {
+    themes: [
+      {
+        myTheme: {
+          ...require("daisyui/src/theming/themes")["light"],
+          primary: "black",
+          secondary: "teal",
+
+          ".btn-primary": {
+            "color": "#FFF",
+          },
+          ".btn-outline.btn-primary:hover": {
+            "color": "#FFF",
+          },
+        },
+      },
+    ],
+  },
 };
