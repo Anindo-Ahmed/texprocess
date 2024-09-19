@@ -19,7 +19,7 @@ const News = () => {
     <div className=" max-h-screen p-20 mt-32 text-neutral-700 bg-[#F6F5ED]">
       <div className=" text-center space-y-5">
         <p className="uppercase">From the Blog</p>
-        <h2 className="text-4xl w-[800px] mx-auto text-neutral-600">
+        <h2 className="text-4xl text-neutral-600">
           Our Articles
         </h2>
       </div>
@@ -64,7 +64,6 @@ const News = () => {
             <h2 className="text-xl mt-5">Innovations in Sustainable Textiles</h2>
             <p className="text-neutral-400 mb-8">September 15, 2021</p>
         </SwiperSlide>
-        
       </Swiper>
       </div>
       

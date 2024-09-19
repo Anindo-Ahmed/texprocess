@@ -3,6 +3,7 @@ import React from 'react';
 import About from './About';
 import Banner from './Banner';
 import News from './News';
+import Clients from './Clients';
 
 const Homepage = () => {
     return (
@@ -10,6 +11,7 @@ const Homepage = () => {
             <Banner/>
             <About/>
             <News/>
+            <Clients/>
         </div>
     );
 };
