@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "image": "https://example.com/image1.jpg",
+      "author": "John Doe",
+      "date": "2024-09-15",
+      "title": "Innovations in Sustainable Textiles",
+      "description": "New developments in sustainable textile manufacturing are transforming the industry, focusing on eco-friendly materials and production processes."
+    },
+    {
+      "id": 2,
+      "image": "https://example.com/image2.jpg",
+      "author": "Jane Smith",
+      "date": "2024-08-30",
+      "title": "Textile Industry Adopts Circular Economy",
+      "description": "The textile industry is increasingly adopting circular economy practices to reduce waste and improve sustainability through recycling and reusing materials."
+    },
+    {
+      "id": 3,
+      "image": "https://example.com/image3.jpg",
+      "author": "Michael Johnson",
+      "date": "2024-09-10",
+      "title": "Growth in Technical Textiles Market",
+      "description": "The global market for technical textiles is expanding rapidly, driven by demand in automotive, medical, and industrial sectors."
+    },
+    {
+      "id": 4,
+      "image": "https://example.com/image4.jpg",
+      "author": "Emily Davis",
+      "date": "2024-09-05",
+      "title": "Advances in Smart Fabrics Technology",
+      "description": "Smart fabrics are revolutionizing fashion and healthcare, with textiles that can sense, react, and adapt to environmental changes."
+    },
+    {
+      "id": 5,
+      "image": "https://example.com/image5.jpg",
+      "author": "Robert Brown",
+      "date": "2024-09-12",
+      "title": "Textile Industry Faces Supply Chain Challenges",
+      "description": "Global supply chain disruptions are impacting textile manufacturers, prompting a push toward localized production and resource management."
+    }
+  ]
+  
