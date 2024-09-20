@@ -4,6 +4,7 @@ import About from './About';
 import Banner from './Banner';
 import News from './News';
 import Clients from './Clients';
+import Newsletter from './Newsletter';
 
 const Homepage = () => {
     return (
@@ -12,6 +13,7 @@ const Homepage = () => {
             <About/>
             <News/>
             <Clients/>
+            <Newsletter/>
         </div>
     );
 };
