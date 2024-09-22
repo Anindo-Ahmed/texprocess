@@ -2,6 +2,7 @@ import React from "react";
 import { IoIosSend } from "react-icons/io";
 
 const Newsletter = () => {
+    
   return (
     <div className="mt-32 bg-[#F6F5ED] text-center flex flex-col justify-center items-center md:py-20 space-y-9">
        <div className="rounded-full border p-3 bg-orange-400">
